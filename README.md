@@ -11,3 +11,8 @@ Demo incident and alert response playbooks.
 - queue: nats.events.demo
 
 This repository is intentionally public demo data for Company Brain webhook, graph, timeline, and retrieval testing.
+
+## Company Brain Signal
+
+This change is used to generate pull request and webhook activity for graph testing.
+
